@@ -9750,6 +9750,8 @@ __metadata:
     "@types/react-native-vector-icons": ^6.4.18
     react: 18.3.1
     react-native: 0.75.3
+    react-native-base64: ^0.2.1
+    react-native-ble-plx: ^3.4.0
     react-native-bouncy-checkbox: ^4.1.2
     react-native-builder-bob: ^0.30.2
     react-native-permissions: ^3.6.1
@@ -9779,6 +9781,8 @@ __metadata:
     prettier: ^3.0.3
     react: 18.3.1
     react-native: 0.75.3
+    react-native-base64: ^0.2.1
+    react-native-ble-plx: ^3.4.0
     react-native-builder-bob: ^0.30.2
     release-it: ^15.0.0
     turbo: ^1.10.7
@@ -10932,6 +10936,23 @@ __metadata:
   version: 18.3.1
   resolution: "react-is@npm:18.3.1"
   checksum: e20fe84c86ff172fc8d898251b7cc2c43645d108bf96d0b8edf39b98f9a2cae97b40520ee7ed8ee0085ccc94736c4886294456033304151c3f94978cec03df21
+  languageName: node
+  linkType: hard
+
+"react-native-base64@npm:^0.2.1":
+  version: 0.2.1
+  resolution: "react-native-base64@npm:0.2.1"
+  checksum: 5127c857250cabb9c24f494b56185a4339bd0ebb859824a01c2f4eb3264379556e06efc8e59ffb9585cbf1c5e6fee18f50f4a6e8a1c63fe4b5cedf0658f8c25e
+  languageName: node
+  linkType: hard
+
+"react-native-ble-plx@npm:^3.4.0":
+  version: 3.4.0
+  resolution: "react-native-ble-plx@npm:3.4.0"
+  peerDependencies:
+    react: "*"
+    react-native: "*"
+  checksum: f255e4ffc621b3656561a571c75d199677eb1332d5ea36c4ed5c5b88926c7135c67f7fea2a09e00cba0fe33df7577ab02308d12bce4b65e6c25f3f9df54d09e1
   languageName: node
   linkType: hard
 
