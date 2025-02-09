@@ -1,0 +1,15 @@
+{
+  "originHash" : "9ba5bf9b6f630a6dffe060602219b27b9ee75c935dd982c73df381742de27451",
+  "pins" : [
+    {
+      "identity" : "mobile-payments-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/square/mobile-payments-sdk-ios",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5e4c9fd7b53e6be42ae2c0c79a6d577c51efce43"
+      }
+    }
+  ],
+  "version" : 3
+}
